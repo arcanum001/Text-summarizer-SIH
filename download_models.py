@@ -8,7 +8,7 @@ from transformers import pipeline
 MODELS_TO_DOWNLOAD = {
     'bi_encoder': 'all-MiniLM-L6-v2',
     'cross_encoder': 'cross-encoder/ms-marco-MiniLM-L-6-v2',
-    'summarizer': 'sshleifer/distilbart-cnn-6-6' # This is the correct summarization model
+    'summarizer': 't5-small' # This is the correct summarization model
 }
 
 # The local directory where the models will be saved.

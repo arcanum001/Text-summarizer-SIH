@@ -1,531 +1,336 @@
 === Chunk Relevance Scores ===
 
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 8
-Section Title: is the form fillable?
-Chunk Text: not all forms are fillable. sometimes form creators don t convert their pdfs to interactive fillable...
-Blended Score: 0.650
-BM25 Score: -0.027
-Relevance Score: 0.510
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 12
-Section Title: interactive form
-Chunk Text: to create an interactive form, use the prepare forms tool. see create a form from an existing docume...
-Blended Score: 0.556
-BM25 Score: -0.027
-Relevance Score: 0.519
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 12
-Section Title: change flat forms to fillable (acrobat pro)
-Chunk Text: you can change a flat form to a fillable form by either using the prepare form tool or enabling the ...
-Blended Score: 0.546
-BM25 Score: -0.039
-Relevance Score: 0.449
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 2
-Section Title: types of pdf forms
-Chunk Text: flat forms : these do not have interactive fields. it could be a paper form or pdf that hasn t been ...
-Blended Score: 0.486
-BM25 Score: -0.039
-Relevance Score: 0.447
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 9
-Section Title: fill in interactive forms
-Chunk Text: 3. when finished, submit the form to either send the data to a server or create an email
-Blended Score: 0.482
-BM25 Score: 0.000
-Relevance Score: 0.174
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 2
-Section Title: types of pdf forms
-Chunk Text: you can complete the forms by entering information and adding your signatures. acrobat also allows y...
-Blended Score: 0.453
-BM25 Score: -0.039
-Relevance Score: 0.443
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 21
-Section Title: set privileges and permissions for others
-Chunk Text: certify a document while leaving portions of it available for form filling , signatures, or comments
-Blended Score: 0.410
-BM25 Score: 0.000
-Relevance Score: 0.477
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 8
-Section Title: signer s experience
-Chunk Text: send in bulk allows you to upload a form and use that as a template to create and send many (hundred...
-Blended Score: 0.408
-BM25 Score: -0.027
-Relevance Score: 0.517
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 1
-Section Title: learn acrobat - fill and sign
-Chunk Text: fill and sign pdf forms you can easily fill, sign, and share your documents using acrobat s fill sig...
-Blended Score: 0.398
-BM25 Score: -0.067
-Relevance Score: 0.462
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 2
-Section Title: fill and sign pdf forms
-Chunk Text: it displays the fill sign tools in the left pane. you can now fill in the form fields and sign the f...
-Blended Score: 0.392
-BM25 Score: -0.046
-Relevance Score: 0.445
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 15
-Section Title: clear unsaved form entries
-Chunk Text: 1. choose tools prepare a form . in the fields side panel, choose clear form from the
-Blended Score: 0.378
-BM25 Score: -0.055
-Relevance Score: 0.461
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 2
-Section Title: to fill text fields:
-Chunk Text: 1. from the left panel, select fill in form fields , and then select the field where you
-Blended Score: 0.372
-BM25 Score: -0.067
-Relevance Score: 0.462
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 16
-Section Title: 7. edit the agreement settings (optional):
-Chunk Text: manage agreements - opens the bulk sends page with all your agreements: track status, access audit t...
-Blended Score: 0.362
-BM25 Score: -0.027
-Relevance Score: 0.495
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 13
-Section Title: 7. edit the agreement settings (optional):
-Chunk Text: the document is now ready to add any fields that you want the signers to fill in or sign.
-Blended Score: 0.325
-BM25 Score: 0.000
-Relevance Score: 0.499
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Generative AI_1.pdf
-Page Number: 20
-Section Title: like or dislike the response
-Chunk Text: 3. choose from the options, or provide details in the text box. then select submit .
-Blended Score: 0.313
-BM25 Score: -0.055
-Relevance Score: 0.475
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 10
-Section Title: note:
-Chunk Text: the forms preferences apply to the way that the application handles open forms as you work. the pref...
-Blended Score: 0.308
-BM25 Score: 0.000
-Relevance Score: 0.284
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Generative AI_1.pdf
-Page Number: 9
-Section Title: before you begin
-Chunk Text: before you begin, ensure that you adhere to the file and usage-related restrictions and login requir...
-Blended Score: 0.305
-BM25 Score: 0.000
-Relevance Score: 0.189
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 5
-Section Title: 5. the specify where to fill sign window is displayed showing options based on
-Chunk Text: simplified mode for multiple signers this mode provides simplified authoring with the capability of ...
-Blended Score: 0.303
-BM25 Score: -0.082
-Relevance Score: 0.461
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 12
-Section Title: flat form
-Chunk Text: the tools are enabled for the current form only. when you create a different form, redo this task to...
-Blended Score: 0.294
-BM25 Score: 0.000
-Relevance Score: 0.190
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
+Document: Dinner Ideas - Sides_1.pdf
 Page Number: 3
-Section Title: send a document to get signatures from others
-Chunk Text: to add form fields and specify where to sign, click specify where to sign .
-Blended Score: 0.284
-BM25 Score: -0.027
-Relevance Score: 0.458
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 15
-Section Title: note:
-Chunk Text: 4. the form fields are detected automatically. hover the mouse over a field to display a
-Blended Score: 0.279
+Section Title: antipasto
+Chunk Text: o arrange meats, cheeses, olives, and vegetables on a platter. o serve with breadsticks.
+Blended Score: 0.723
 BM25 Score: -0.055
-Relevance Score: 0.488
+Relevance Score: 0.554
 Status: Excluded
 Penalty: 0.000
 Penalty Reason: None
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 9
-Section Title: steps to send in bulk
-Chunk Text: upload (by search or drag-and-drop) the primary file that you are using to build your agreement temp...
-Blended Score: 0.275
-BM25 Score: -0.027
-Relevance Score: 0.460
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Generative AI_2.pdf
-Page Number: 12
-Section Title: request access in acrobat
-Chunk Text: 3. select send request . your access request is submitted to the admin for review and
-Blended Score: 0.268
+Document: Dinner Ideas - Sides_1.pdf
+Page Number: 5
+Section Title: banchan
+Chunk Text: o prepare each side dish separately. o arrange on small plates. o serve as accompaniments to the mai...
+Blended Score: 0.686
 BM25 Score: -0.055
-Relevance Score: 0.392
+Relevance Score: 0.549
 Status: Excluded
 Penalty: 0.000
 Penalty Reason: None
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 2
-Section Title: fill and sign pdf forms
-Chunk Text: to complete and sign pdf forms, open the form in acrobat and then select e-sign from the global bar....
-Blended Score: 0.267
-BM25 Score: -0.106
-Relevance Score: 0.405
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 6
-Section Title: 2. to add a signature:
-Chunk Text: note: once you add a signature or initial to a form and save it, you cannot edit it again.
-Blended Score: 0.267
-BM25 Score: -0.027
-Relevance Score: 0.491
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
+Document: Dinner Ideas - Mains_1.pdf
 Page Number: 14
-Section Title: print forms
-Chunk Text: 3. in the comments and forms menu, choose one of the following, and then select ok :
-Blended Score: 0.266
-BM25 Score: -0.027
-Relevance Score: 0.495
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Edit_1.pdf
-Page Number: 2
-Section Title: learn acrobat - edit_1
-Chunk Text: various documents to pdf forms. you can use the options in the edit panel to replace, edit, or
-Blended Score: 0.256
-BM25 Score: -0.027
-Relevance Score: 0.439
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Generative AI_2.pdf
-Page Number: 12
-Section Title: request access in acrobat
-Chunk Text: 2. in the request access dialog, specify a business reason for requesting access to the ai
-Blended Score: 0.252
+Section Title: instructions:
+Chunk Text: in a large bowl, mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, milk, beaten...
+Blended Score: 0.574
 BM25 Score: 0.000
-Relevance Score: 0.088
+Relevance Score: 0.000
 Status: Excluded
 Penalty: 0.000
-Penalty Reason: None
+Penalty Reason: Generic title 'instructions:'
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_2.pdf
-Page Number: 9
-Section Title: trust a signer s certificate
-Chunk Text: certificates that are signed and certified by a trust anchor. therefore, administrators can preconfi...
-Blended Score: 0.249
-BM25 Score: 0.000
-Relevance Score: 0.430
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Generative AI_2.pdf
-Page Number: 18
-Section Title: license deployment
-Chunk Text: you can manage the deployment of acrobat ai assistant through the adobe admin console. as an admin, ...
-Blended Score: 0.240
-BM25 Score: -0.027
-Relevance Score: 0.464
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 27
-Section Title: set up a roaming id account
-Chunk Text: 6. type your user name and password, or follow the directions to create an account.
-Blended Score: 0.240
-BM25 Score: -0.055
-Relevance Score: 0.402
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_2.pdf
-Page Number: 6
-Section Title: set the trust level of a certificate
-Chunk Text: any constructs such as form fields, multimedia, or javascript that may affect its look and feel.
-Blended Score: 0.240
-BM25 Score: 0.000
-Relevance Score: 0.072
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 20
-Section Title: why use certificate signatures?
-Chunk Text: for instance, companies in the european union who need to comply with advanced or qualified electron...
-Blended Score: 0.239
-BM25 Score: 0.000
-Relevance Score: 0.450
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Fill and Sign.pdf
+Document: Dinner Ideas - Sides_1.pdf
 Page Number: 13
-Section Title: save forms
-Chunk Text: windows : save as other acrobat reader extended pdf enable more tools (includes form fill-in save) m...
-Blended Score: 0.235
+Section Title: cha gio
+Chunk Text: green onions, minced garlic, fish sauce, and sugar in a bowl.
+Blended Score: 0.524
 BM25 Score: 0.000
-Relevance Score: 0.131
+Relevance Score: 0.011
 Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: minced garlic
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_2.pdf
+Document: Dinner Ideas - Mains_3.pdf
 Page Number: 8
-Section Title: trust a signer s certificate
-Chunk Text: to trust a certificate, it must be added to the user s trusted identity list in the trusted identity...
-Blended Score: 0.232
-BM25 Score: -0.027
-Relevance Score: 0.418
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 25
-Section Title: note:
-Chunk Text: for details on the full range of configuration options in enterprise settings, see the digital signa...
-Blended Score: 0.232
+Section Title: instructions:
+Chunk Text: in a bowl, mix spinach, feta, sun-dried tomatoes, and garlic.
+Blended Score: 0.521
 BM25 Score: 0.000
-Relevance Score: 0.500
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_1.pdf
+Page Number: 3
+Section Title: antipasto
+Chunk Text: o assorted cured meats (salami, prosciutto) o cheeses (mozzarella, provolone) o olives o marinated v...
+Blended Score: 0.519
+BM25 Score: 0.000
+Relevance Score: 0.543
 Status: Excluded
 Penalty: 0.000
 Penalty Reason: None
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 24
-Section Title: setting up certificate-based signatures
-Chunk Text: you can expedite the signing process and optimize your results by making the following preparations ...
-Blended Score: 0.226
+Document: Dinner Ideas - Mains_2.pdf
+Page Number: 7
+Section Title: instructions:
+Chunk Text: in a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch.
+Blended Score: 0.517
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_2.pdf
+Page Number: 15
+Section Title: instructions:
+Chunk Text: stir in white wine, beef broth, diced tomatoes, thyme, and bay leaf.
+Blended Score: 0.488
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_1.pdf
+Page Number: 3
+Section Title: albondigas
+Chunk Text: o mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beaten
+Blended Score: 0.487
 BM25 Score: -0.027
-Relevance Score: 0.414
+Relevance Score: 0.011
 Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: minced garlic
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_2.pdf
-Page Number: 10
-Section Title: xml data signatures
-Chunk Text: acrobat and acrobat reader support xml data signatures that are used to sign data in xml forms archi...
-Blended Score: 0.224
+Document: Dinner Ideas - Sides_3.pdf
+Page Number: 5
+Section Title: keftedes
+Chunk Text: o mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, beaten
+Blended Score: 0.487
 BM25 Score: -0.027
-Relevance Score: 0.489
+Relevance Score: 0.011
+Status: Excluded
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: minced garlic
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_2.pdf
+Page Number: 5
+Section Title: dumplings
+Chunk Text: o mix ground pork, cabbage, green onions, minced garlic, soy sauce, and sesame
+Blended Score: 0.486
+BM25 Score: 0.000
+Relevance Score: 0.011
+Status: Excluded
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: minced garlic
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 4
+Section Title: instructions:
+Chunk Text: in a bowl, combine the chicken, mayonnaise, dijon mustard, celery, and grapes.
+Blended Score: 0.480
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 3
+Section Title: instructions:
+Chunk Text: in a bowl, combine the tuna, mayonnaise, dijon mustard, celery, and red onion.
+Blended Score: 0.476
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_1.pdf
+Page Number: 5
+Section Title: banchan
+Chunk Text: o assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi
+Blended Score: 0.474
+BM25 Score: -0.027
+Relevance Score: 0.527
 Status: Excluded
 Penalty: 0.000
 Penalty Reason: None
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_1.pdf
+Document: Lunch Ideas.pdf
 Page Number: 14
-Section Title: 7. edit the agreement settings (optional):
-Chunk Text: you can now add any necessary fields to the agreement. remember that a signature field must be place...
-Blended Score: 0.221
+Section Title: instructions:
+Chunk Text: in a bowl, combine the tuna, tomatoes, cucumber, olives, and feta cheese.
+Blended Score: 0.465
 BM25 Score: 0.000
-Relevance Score: 0.483
+Relevance Score: 0.000
 Status: Excluded
 Penalty: 0.000
-Penalty Reason: None
+Penalty Reason: Generic title 'instructions:'
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Fill and Sign.pdf
-Page Number: 14
-Section Title: print forms
-Chunk Text: (interactive form only) to print only the typed entries and not the form itself, choose form fields ...
-Blended Score: 0.220
+Document: Dinner Ideas - Mains_2.pdf
+Page Number: 5
+Section Title: instructions:
+Chunk Text: in a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and water.
+Blended Score: 0.465
 BM25 Score: 0.000
-Relevance Score: 0.140
+Relevance Score: 0.000
 Status: Excluded
 Penalty: 0.000
-Penalty Reason: None
+Penalty Reason: Generic title 'instructions:'
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Fill and Sign.pdf
+Document: Dinner Ideas - Mains_2.pdf
 Page Number: 9
-Section Title: fill in interactive forms
-Chunk Text: 2. select anywhere in the form to access options, such as radio buttons. select inside a
-Blended Score: 0.220
-BM25 Score: -0.039
+Section Title: instructions:
+Chunk Text: in a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and water.
+Blended Score: 0.465
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_1.pdf
+Page Number: 8
+Section Title: instructions:
+Chunk Text: stir in diced tomatoes, chicken broth, red wine, oregano, basil, and olives.
+Blended Score: 0.464
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 5
+Section Title: instructions:
+Chunk Text: in a large bowl, combine the pasta, tomatoes, cucumber, olives, and feta cheese.
+Blended Score: 0.458
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Breakfast Ideas.pdf
+Page Number: 5
+Section Title: instructions:
+Chunk Text: stir well before serving and top with your favorite toppings.
+Blended Score: 0.457
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_1.pdf
+Page Number: 13
+Section Title: cha gio
+Chunk Text: o mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped
+Blended Score: 0.455
+BM25 Score: -0.027
+Relevance Score: 0.524
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_1.pdf
+Page Number: 5
+Section Title: instructions:
+Chunk Text: in a bowl, mix ricotta cheese, egg, grated parmesan cheese, basil, and oregano.
+Blended Score: 0.452
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_1.pdf
+Page Number: 7
+Section Title: instructions:
+Chunk Text: add red wine, beef broth, tomato paste, thyme, and bay leaf.
+Blended Score: 0.452
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_2.pdf
+Page Number: 10
+Section Title: instructions:
+Chunk Text: add red wine, chicken broth, tomato paste, thyme, bay leaf, salt, and pepper.
+Blended Score: 0.446
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_1.pdf
+Page Number: 5
+Section Title: beef tacos ingredients:
+Chunk Text: shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings
+Blended Score: 0.445
+BM25 Score: -0.067
+Relevance Score: 0.448
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_2.pdf
+Page Number: 8
+Section Title: chicken fajitas ingredients:
+Chunk Text: shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings
+Blended Score: 0.445
+BM25 Score: -0.067
 Relevance Score: 0.441
 Status: Excluded
 Penalty: 0.000
@@ -533,128 +338,323 @@ Penalty Reason: None
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Generative AI_1.pdf
-Page Number: 26
-Section Title: note:
-Chunk Text: 1. open the document you want to work on, and then select ai assistant .
-Blended Score: 0.212
-BM25 Score: -0.027
-Relevance Score: 0.487
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 19
-Section Title: manage your bulk sends
-Chunk Text: download form field data - downloads a csv file of the field-level content for all child agreements ...
-Blended Score: 0.207
-BM25 Score: -0.027
-Relevance Score: 0.452
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_2.pdf
-Page Number: 5
-Section Title: set the trust level of a certificate
-Chunk Text: privileged system operations : it a llows internet connections, cross- domain scripting, silent prin...
-Blended Score: 0.204
-BM25 Score: 0.000
-Relevance Score: 0.066
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Generative AI_1.pdf
-Page Number: 12
-Section Title: get ai-generated overviews and summaries
-Chunk Text: also provides a brief overview at the beginning to explain what the entire document is about.
-Blended Score: 0.200
+Document: Lunch Ideas.pdf
+Page Number: 8
+Section Title: instructions:
+Chunk Text: in a large bowl, combine the lentils, tomatoes, cucumber, red onion, and feta cheese.
+Blended Score: 0.443
 BM25 Score: 0.000
 Relevance Score: 0.000
 Status: Excluded
 Penalty: 0.000
-Penalty Reason: Generic title 'get ai-generated overviews and summaries'
+Penalty Reason: Generic title 'instructions:'
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 3
-Section Title: send a document to get signatures from others
-Chunk Text: (optional) to explore advanced options including signer authentication, reminders, and more, click m...
-Blended Score: 0.199
-BM25 Score: 0.000
-Relevance Score: 0.455
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Export_1.pdf
-Page Number: 18
-Section Title: excel workbook settings
-Chunk Text: specifies whether to create a worksheet for each table or page, or the entire document.
-Blended Score: 0.198
-BM25 Score: 0.000
-Relevance Score: 0.391
-Status: Excluded
-Penalty: 0.000
-Penalty Reason: None
-Boost: 0.000
---------------------------------------------------
-
-Document: Learn Acrobat - Request e-signatures_2.pdf
+Document: Dinner Ideas - Mains_2.pdf
 Page Number: 11
-Section Title: add verification information after signing
-Chunk Text: information and methods used to include this long-term validation (ltv) information in the pdf compl...
-Blended Score: 0.194
+Section Title: instructions:
+Chunk Text: in a bowl, mix crab meat, diced onion, breadcrumbs, mayonnaise, beaten egg, dijon mustard, worcester...
+Blended Score: 0.442
 BM25 Score: 0.000
-Relevance Score: 0.430
+Relevance Score: 0.000
 Status: Excluded
 Penalty: 0.000
-Penalty Reason: None
+Penalty Reason: Generic title 'instructions:'
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_1.pdf
+Document: Dinner Ideas - Mains_2.pdf
+Page Number: 15
+Section Title: instructions:
+Chunk Text: add noodles, soy sauce, oyster sauce, and sugar, stir to combine.
+Blended Score: 0.435
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 9
+Section Title: instructions:
+Chunk Text: in a large bowl, combine the tomatoes, cucumber, red onion, olives, and feta cheese.
+Blended Score: 0.430
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 13
+Section Title: instructions:
+Chunk Text: in a bowl, combine the chicken, mango, red onion, and cilantro.
+Blended Score: 0.429
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_2.pdf
+Page Number: 14
+Section Title: greek salad
+Chunk Text: o dice tomatoes and cucumber, slice red onion. o mix vegetables with olives and crumbled feta cheese...
+Blended Score: 0.428
+BM25 Score: -0.110
+Relevance Score: 0.009
+Status: Excluded
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: olive oil
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_2.pdf
+Page Number: 9
+Section Title: feijão tropeiro
+Chunk Text: o sauté diced bacon, onion, and minced garlic until crispy. o add cooked beans and cassava flour, st...
+Blended Score: 0.426
+BM25 Score: -0.094
+Relevance Score: 0.010
+Status: Excluded
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: minced garlic
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_1.pdf
+Page Number: 5
+Section Title: instructions:
+Chunk Text: spread a thin layer of meat sauce in a baking dish.
+Blended Score: 0.425
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Breakfast Ideas.pdf
+Page Number: 11
+Section Title: instructions:
+Chunk Text: stir in cheese, bell pepper, onion, and sausage or bacon.
+Blended Score: 0.423
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 11
+Section Title: instructions:
+Chunk Text: in a bowl, combine the tuna, avocado, tomatoes, and red onion.
+Blended Score: 0.420
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Breakfast Ideas.pdf
+Page Number: 9
+Section Title: instructions:
+Chunk Text: stir in cheese, sausage or bacon, bell pepper, and onion.
+Blended Score: 0.415
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_2.pdf
 Page Number: 8
-Section Title: signer s experience
-Chunk Text: the sender has access to the agreements through their home or documents tab or through the send in b...
-Blended Score: 0.166
-BM25 Score: -0.027
-Relevance Score: 0.480
+Section Title: fattoush
+Chunk Text: o toast pita breads until crispy, then break into pieces. o dice tomatoes and cucumber, slice red on...
+Blended Score: 0.415
+BM25 Score: -0.122
+Relevance Score: 0.010
+Status: Excluded
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: olive oil
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_2.pdf
+Page Number: 8
+Section Title: fattoush
+Chunk Text: o 2 pita breads o 4 tomatoes o 1 cucumber o 1 small red onion o 1 4 cup parsley o 1 4 cup mint o 1 4...
+Blended Score: 0.413
+BM25 Score: -0.082
+Relevance Score: 0.010
+Status: Excluded
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: teaspoon salt, olive oil
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_3.pdf
+Page Number: 8
+Section Title: instructions:
+Chunk Text: mix barbecue sauce, chicken broth, and brown sugar, and pour over pork.
+Blended Score: 0.412
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 6
+Section Title: instructions:
+Chunk Text: in a bowl, combine the chicken, avocado, tomatoes, and red onion.
+Blended Score: 0.410
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_1.pdf
+Page Number: 10
+Section Title: fish tacos ingredients:
+Chunk Text: shredded cabbage, diced tomatoes, sliced avocado, and lime wedges for toppings
+Blended Score: 0.408
+BM25 Score: -0.055
+Relevance Score: 0.447
 Status: Excluded
 Penalty: 0.000
 Penalty Reason: None
 Boost: 0.000
 --------------------------------------------------
 
-Document: Learn Acrobat - Request e-signatures_1.pdf
-Page Number: 19
-Section Title: manage your bulk sends
-Chunk Text: download individual files - provides the option to download the individual pdf files if multiple fil...
-Blended Score: 0.158
-BM25 Score: 0.000
-Relevance Score: 0.454
+Document: Dinner Ideas - Sides_2.pdf
+Page Number: 5
+Section Title: egusi soup
+Chunk Text: o add beef, fish, salt, pepper, and water, simmer until meat is tender. o stir in chopped spinach an...
+Blended Score: 0.401
+BM25 Score: -0.082
+Relevance Score: 0.482
 Status: Excluded
 Penalty: 0.000
 Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_1.pdf
+Page Number: 12
+Section Title: carrot salad
+Chunk Text: o grate carrots and mix with raisins and chopped parsley. o whisk lemon juice, olive oil, cumin, and...
+Blended Score: 0.401
+BM25 Score: -0.110
+Relevance Score: 0.010
+Status: Excluded
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: olive oil
+Boost: 0.000
+--------------------------------------------------
+
+Document: Breakfast Ideas.pdf
+Page Number: 16
+Section Title: instructions:
+Chunk Text: in a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.
+Blended Score: 0.397
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 6
+Section Title: instructions:
+Chunk Text: in a large bowl, combine the chickpeas, tomatoes, cucumber, red onion, and feta cheese.
+Blended Score: 0.394
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 12
+Section Title: instructions:
+Chunk Text: in a large bowl, combine the couscous, tomatoes, cucumber, red onion, and feta cheese.
+Blended Score: 0.393
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Lunch Ideas.pdf
+Page Number: 8
+Section Title: instructions:
+Chunk Text: in a large bowl, combine the black beans, corn, tomatoes, red onion, and cilantro.
+Blended Score: 0.384
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Mains_1.pdf
+Page Number: 12
+Section Title: instructions:
+Chunk Text: in a baking dish, layer eggplant slices and meat sauce.
+Blended Score: 0.382
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'instructions:'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Dinner Ideas - Sides_2.pdf
+Page Number: 14
+Section Title: green bean casserole
+Chunk Text: o 4 cups green beans o 1 can cream of mushroom soup o 1 2 cup milk o 1 cup fried onions o 1 teaspoon...
+Blended Score: 0.381
+BM25 Score: -0.055
+Relevance Score: 0.009
+Status: Excluded
+Penalty: 0.980
+Penalty Reason: Contains irrelevant terms: teaspoon salt
 Boost: 0.000
 --------------------------------------------------
 
 === Irrelevant Terms ===
 
 Dynamically Generated Irrelevant Terms:
-methodological analysis, table of contents, vermiform process, cecal appendage, reference book, bibliography, glossary
+methodological analysis, dispersed particles, vermiform appendix, dispersion medium, table of contents, dispersing medium, requisition form, dispersing phase, application form, amorphous shape, create verbally, dispersed phase, create mentally, cecal appendage, angular shape, questionnaire, natural shape, minced garlic, teaspoon salt, citation form, bibliography, tailor-make, custom-make, order form, claim form, coordinate, topography, olive oil, glossary, tax form, kindle, genus
 === Relevant Terms ===
 
 Dynamically Generated Relevant Terms:
-
+onboarding, compliance, fillable, create, manage, forms, form

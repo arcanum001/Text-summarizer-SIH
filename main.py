@@ -1,6 +1,6 @@
 import os
 import json
-from datetime import datetime, UTC
+from datetime import datetime, timezone
 import logging
 import sys
 import nltk
@@ -42,7 +42,7 @@ def setup_nltk():
         nltk.download('punkt', quiet=True)
         nltk.download('averaged_perceptron_tagger', quiet=True)
 
-def load_config(path='config.json'):
+def load_config(path='/app/config/config.json'):
     try:
         with open(path, 'r') as f:
             return json.load(f)
@@ -88,13 +88,13 @@ def create_dynamic_ideal_document(query: str, persona: str, config: Dict) -> str
     
     return ideal_doc.strip()
 
-def save_chunks(chunks: List[Dict], output_path: str = './output/chunks.json'):
+def save_chunks(chunks: List[Dict], output_path: str = '/app/output/chunks.json'):
     logger.info(f"Saving {len(chunks)} chunks to {output_path}")
     os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(chunks, f, indent=4)
 
-def save_error_log(error_data: Dict, output_path: str = './output/error_log.json'):
+def save_error_log(error_data: Dict, output_path: str = '/app/output/error_log.json'):
     logger.info(f"Saving error log to {output_path}")
     os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
     with open(output_path, 'a', encoding='utf-8') as f:
@@ -104,7 +104,6 @@ def save_error_log(error_data: Dict, output_path: str = './output/error_log.json
 def main():
     setup_nltk()
     
-    # Validate command-line arguments
     if len(sys.argv) != 3:
         error_msg = "Usage: python main.py <query> <persona>"
         logger.error(error_msg)
@@ -126,7 +125,10 @@ def main():
         if pdf_file.endswith('.pdf'):
             pdf_path = os.path.join(config['pdf_data_path'], pdf_file)
             try:
-                all_chunks.extend(pdf_parser.process_pdf_to_chunks(pdf_path, **config.get('pdf_parsing_parameters', {})))
+                params = config.get('pdf_parsing_parameters', {})
+                params['min_chunk_word_count'] = params.get('min_chunk_word_count', 50)
+                params['max_heading_word_count'] = params.get('max_heading_word_count', 10)
+                all_chunks.extend(pdf_parser.process_pdf_to_chunks(pdf_path, **params))
             except Exception as e:
                 logger.warning(f"Failed to process {pdf_file}: {e}")
                 save_error_log({"file": pdf_file, "error": str(e)})
@@ -147,7 +149,7 @@ def main():
         save_error_log({"error": "Failed to build search index", "details": str(e)})
         return
 
-    start_time = datetime.now(UTC)
+    start_time = datetime.now(timezone.utc)
     enhanced_query = f"As a {persona}, I need information about: {query}"
     ideal_document = create_dynamic_ideal_document(query, persona, config)
     try:

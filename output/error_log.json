@@ -55,3 +55,46 @@
   "error": "Failed to generate enhanced results",
   "details": "'ImprovedResultGenerator' object has no attribute 'generate_sections'"
 }
+{
+  "file": "Dinner Ideas - Mains_1.pdf",
+  "error": "process_pdf_to_chunks() missing 2 required positional arguments: 'min_chunk_word_count' and 'max_heading_word_count'"
+}
+{
+  "file": "Dinner Ideas - Mains_2.pdf",
+  "error": "process_pdf_to_chunks() missing 2 required positional arguments: 'min_chunk_word_count' and 'max_heading_word_count'"
+}
+{
+  "file": "Dinner Ideas - Mains_3.pdf",
+  "error": "process_pdf_to_chunks() missing 2 required positional arguments: 'min_chunk_word_count' and 'max_heading_word_count'"
+}
+{
+  "file": "Dinner Ideas - Sides_1.pdf",
+  "error": "process_pdf_to_chunks() missing 2 required positional arguments: 'min_chunk_word_count' and 'max_heading_word_count'"
+}
+{
+  "file": "Dinner Ideas - Sides_2.pdf",
+  "error": "process_pdf_to_chunks() missing 2 required positional arguments: 'min_chunk_word_count' and 'max_heading_word_count'"
+}
+{
+  "file": "Dinner Ideas - Sides_3.pdf",
+  "error": "process_pdf_to_chunks() missing 2 required positional arguments: 'min_chunk_word_count' and 'max_heading_word_count'"
+}
+{
+  "file": "Dinner Ideas - Sides_4.pdf",
+  "error": "process_pdf_to_chunks() missing 2 required positional arguments: 'min_chunk_word_count' and 'max_heading_word_count'"
+}
+{
+  "error": "No chunks extracted"
+}
+{
+  "error": "Failed to build search index",
+  "details": "'bi_encoder'"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "name 'embedings' is not defined"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "Unknown format code 'f' for object of type 'str'"
+}

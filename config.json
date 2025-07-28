@@ -1,20 +1,32 @@
 {
+  "pdf_data_path": "/app/",
+  "output_path": "/app/output",
   "model_paths": {
-    "bi_encoder": "./models/bi_encoder",
-    "cross_encoder": "./models/cross_encoder",
-    "summarizer": "./models/summarizer"
+    "summarizer": "/app/config/t5-small",
+    "bi_encoder": "sentence-transformers/all-MiniLM-L6-v2"
   },
-  "pdf_data_path": "./data",
-  "output_path": "./output",
   "search_parameters": {
     "top_k_retrieval": 100,
-    "top_k_rerank": 50
-  },
-  "pdf_parsing_parameters": {
-    "min_chunk_word_count": 15,
-    "max_heading_word_count": 15
+    "top_k_rerank": 10
   },
   "filtering_parameters": {
-    "intent_score_weight": 0.6
-  }
+    "intent_weight": 0.6
+  },
+  "pdf_parsing_parameters": {
+    "min_chunk_word_count": 50,
+    "max_heading_word_count": 10
+  },
+  "activity_keywords": {
+    "General Activities": ["activity", "event", "recipe", "menu", "itinerary", "dish", "course", "buffet", "dinner", "salad", "curry"],
+    "PDF Forms": ["form", "fillable", "e-signature", "signature", "document", "field"],
+    "Business": ["contract", "agreement", "proposal", "compliance", "onboarding"]
+  },
+  "irrelevant_terms": [
+    "introduction", "conclusion", "summary", "overview", "instructions",
+    "preface", "foreword", "abstract", "prologue", "epilogue",
+    "contents", "index", "appendix", "glossary", "bibliography",
+    "references", "acknowledgments", "notes", "disclaimer", "guidelines",
+    "procedure", "methodology", "background", "table of contents", "cover page",
+    "note", "note:"
+  ]
 }

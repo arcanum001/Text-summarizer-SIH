@@ -1,99 +1,93 @@
 {
   "metadata": {
     "input_documents": [
-      "Learn Acrobat - Create and Convert_1.pdf",
-      "Learn Acrobat - Create and Convert_2.pdf",
-      "Learn Acrobat - Edit_1.pdf",
-      "Learn Acrobat - Edit_2.pdf",
-      "Learn Acrobat - Export_1.pdf",
-      "Learn Acrobat - Export_2.pdf",
-      "Learn Acrobat - Fill and Sign.pdf",
-      "Learn Acrobat - Generative AI_1.pdf",
-      "Learn Acrobat - Generative AI_2.pdf",
-      "Learn Acrobat - Request e-signatures_1.pdf",
-      "Learn Acrobat - Request e-signatures_2.pdf",
-      "Learn Acrobat - Share_1.pdf",
-      "Learn Acrobat - Share_2.pdf",
-      "Test Your Acrobat Exporting Skills.pdf",
-      "The Ultimate PDF Sharing Checklist.pdf"
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
     ],
-    "persona": "HR professional",
-    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
-    "processing_timestamp": "2025-07-28T05:04:59.168365+00:00",
-    "enhanced_query": "As a HR professional, I need information about: Create and manage fillable forms for onboarding and compliance.",
-    "ideal_document_used": "This document provides relevant and actionable information tailored to the needs of a hr professional to onboarding the query 'Create and manage fillable forms for onboarding and compliance.'. \n    It focuses on relevant topics and includes specific, practical information about create, manage, fillable, forms, onboarding.\n    The content is detailed, actionable, and directly relevant to create, manage, forms.\n    It emphasizes relevant topics and avoids introduction, conclusion, summary.\n    It contains concrete examples, specific recommendations, and practical steps to achieve the goal.",
+    "persona": "Health_Conscious",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu",
+    "processing_timestamp": "2025-07-28T15:40:01.928539+00:00",
+    "enhanced_query": "As a Health_Conscious, I need information about: Prepare a vegetarian buffet-style dinner menu",
+    "ideal_document_used": "This document provides relevant and actionable information tailored to the needs of a health conscious to prepare the query 'Prepare a vegetarian buffet-style dinner menu'. \n    It focuses on menu, dinner and includes specific, practical information about prepare, vegetarian, buffet-style, dinner, menu.\n    The content is detailed, actionable, and directly relevant to dinner, menu.\n    It emphasizes menu, dinner and avoids introduction, conclusion, summary.\n    It contains concrete examples, specific recommendations, and practical steps to achieve the goal.",
     "processing_stats": {
-      "unique_sections_found": 35,
-      "avg_chunk_score": 0.298
+      "unique_sections_found": 16,
+      "avg_chunk_score": 0.456
     }
   },
   "extracted_sections": [
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "page_number": 8,
-      "section_title": "is the form fillable?",
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 3,
+      "section_title": "antipasto",
       "importance_rank": 1,
-      "relevance_score": 0.763,
-      "chunk_count": 1
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "page_number": 12,
-      "section_title": "interactive form",
-      "importance_rank": 2,
-      "relevance_score": 0.739,
-      "chunk_count": 1
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "page_number": 12,
-      "section_title": "change flat forms to fillable (acrobat pro)",
-      "importance_rank": 3,
-      "relevance_score": 0.733,
-      "chunk_count": 1
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "page_number": 21,
-      "section_title": "set privileges and permissions for others",
-      "importance_rank": 5,
-      "relevance_score": 0.726,
-      "chunk_count": 1
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "page_number": 9,
-      "section_title": "trust a signer s certificate",
-      "importance_rank": 7,
-      "relevance_score": 0.717,
+      "relevance_score": 0.783,
       "chunk_count": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 5,
+      "section_title": "banchan",
+      "importance_rank": 2,
+      "relevance_score": 0.771,
+      "chunk_count": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "page_number": 5,
+      "section_title": "egusi soup",
+      "importance_rank": 3,
+      "relevance_score": 0.682,
+      "chunk_count": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "section_title": "beef tacos ingredients:",
+      "importance_rank": 4,
+      "relevance_score": 0.648,
+      "chunk_count": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 10,
+      "section_title": "fish tacos ingredients:",
+      "importance_rank": 5,
+      "relevance_score": 0.647,
+      "chunk_count": 1
     }
   ],
   "subsection_analysis": [
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "3. In the Comments And Forms menu, choose one of the following, and then select OK :\n\nYou can now add any necessary fields to the agreement. Remember that a Signature field must be placed for each signer (including internal counter-singers).\n\n(Interactive form only) To print only the typed entries and not the form itself, choose Form Fields Only .",
-      "page_number": 14
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Prepare each side dish separately. o Serve as accompaniment to the main meal . add beef, fish, salt, pepper, and water, simmer until meat is tender .",
+      "page_number": 5
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "Send in bulk allows you to upload a form and use that as a template to create and send many (hundreds!) of unique agreements, each dedicated to one external signer. Each agreement is insulated from the others and contains its own audit report. Each recipient is unaware of all other recipients.\n\nThe sender has access to the agreements through their Home or Documents tab or through the Send in bulk template, which contains an Agreements report that tracks the overall status of the child agreements created from the template. Additionally, the sender can export the field-level data of all completed agreements in a CSV format using the Download Form Field Data action. To access the Send in bulk feature, do one of the following:\n\nNot all forms are fillable. Sometimes form creators don t convert their PDFs to interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand or with the Fill Sign tool. These non-interactive forms are called flat forms.\n\nTo trust a certificate, it must be added to the user s trusted identity list in the Trusted Identity Manager. Also, its trust level must be set manually. End users can exchange certificates or add them directly from signed documents and set their trust levels. However, enterprises may require employees to validate signatures without any manual intervention. Acrobat trusts all",
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Arrange meats, cheeses, olives, and vegetables on a platter . Serve with breadsticks . assorted cured meats (salami, prosciutto) o cheeses (mozzarella, provolone)",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Mix ground pork, chopped shrimp, diced mushrooms, chopped carrots . julienned carrots, chopped pork .",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings . toppings include shredded cheddar, salsa, lettuce and shredded tomatoes .",
       "page_number": 8
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "Download Form Field Data - Downloads a CSV file of the field-level content for all child agreements spawned from this parent Bulk Send that have been completed.\n\nDownload Individual Files - Provides the option to download the individual PDF files if multiple files were used to create the web form.",
-      "page_number": 19
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "refined_text": "Information and methods used to include this long-term validation (LTV) information in the PDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard.",
-      "page_number": 11
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "refined_text": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. As an admin, you must add users to the Admin Console using one of the methods described in Adobe Admin Console users. You can choose to either select the users to assign or create product profiles and assign users to the profiles. For more information, see Packaging apps via the Admin Console. Once you assign AI Assistant for Acrobat, the users must restart Acrobat to see AI Assistant.\n\nSpecifies whether to create a Worksheet for each table or page, or the entire document.",
-      "page_number": 18
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "shredded cabbage, diced tomatoes, sliced avocado, and lime wedges for toppings . chopped avocado, chopped tomatoes, and shredded cabbage .",
+      "page_number": 10
     }
   ]
 }

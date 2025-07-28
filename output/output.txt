@@ -1,0 +1,296 @@
+=== Generated Irrelevant Terms ===
+
+
+=== Generated Relevant Terms ===
+
+
+=== Top 50 Sections ===
+
+Section 1:
+  Title: banchan
+  Document: Dinner Ideas - Sides_1.pdf
+  Page Number: 5
+  Relevance Score: 0.686
+  Chunk Count: 2
+  Status: Included
+  Exclusion Reason: None
+--------------------------------------------------
+Section 2:
+  Title: fattoush
+  Document: Dinner Ideas - Sides_2.pdf
+  Page Number: 8
+  Relevance Score: 0.661
+  Chunk Count: 2
+  Status: Included
+  Exclusion Reason: None
+--------------------------------------------------
+Section 3:
+  Title: carrot salad
+  Document: Dinner Ideas - Sides_1.pdf
+  Page Number: 12
+  Relevance Score: 0.611
+  Chunk Count: 1
+  Status: Included
+  Exclusion Reason: None
+--------------------------------------------------
+Section 4:
+  Title: greek salad
+  Document: Dinner Ideas - Sides_2.pdf
+  Page Number: 14
+  Relevance Score: 0.578
+  Chunk Count: 1
+  Status: Included
+  Exclusion Reason: None
+--------------------------------------------------
+Section 5:
+  Title: antipasto
+  Document: Dinner Ideas - Sides_1.pdf
+  Page Number: 3
+  Relevance Score: 0.482
+  Chunk Count: 2
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.482
+--------------------------------------------------
+Section 6:
+  Title: cha gio
+  Document: Dinner Ideas - Sides_1.pdf
+  Page Number: 13
+  Relevance Score: 0.463
+  Chunk Count: 2
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.463
+--------------------------------------------------
+Section 7:
+  Title: keftedes
+  Document: Dinner Ideas - Sides_3.pdf
+  Page Number: 5
+  Relevance Score: 0.447
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.447
+--------------------------------------------------
+Section 8:
+  Title: albondigas
+  Document: Dinner Ideas - Sides_1.pdf
+  Page Number: 3
+  Relevance Score: 0.432
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.432
+--------------------------------------------------
+Section 9:
+  Title: dumplings
+  Document: Dinner Ideas - Sides_2.pdf
+  Page Number: 5
+  Relevance Score: 0.411
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.411
+--------------------------------------------------
+Section 10:
+  Title: feijão tropeiro
+  Document: Dinner Ideas - Sides_2.pdf
+  Page Number: 9
+  Relevance Score: 0.394
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.394
+--------------------------------------------------
+Section 11:
+  Title: egusi soup
+  Document: Dinner Ideas - Sides_2.pdf
+  Page Number: 5
+  Relevance Score: 0.390
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.390
+--------------------------------------------------
+Section 12:
+  Title: green bean casserole
+  Document: Dinner Ideas - Sides_2.pdf
+  Page Number: 14
+  Relevance Score: 0.356
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.356
+--------------------------------------------------
+Section 13:
+  Title: beef tacos ingredients:
+  Document: Dinner Ideas - Mains_1.pdf
+  Page Number: 5
+  Relevance Score: 0.351
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.351
+--------------------------------------------------
+Section 14:
+  Title: fish tacos ingredients:
+  Document: Dinner Ideas - Mains_1.pdf
+  Page Number: 10
+  Relevance Score: 0.346
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.346
+--------------------------------------------------
+Section 15:
+  Title: chicken fajitas ingredients:
+  Document: Dinner Ideas - Mains_2.pdf
+  Page Number: 8
+  Relevance Score: 0.345
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Low relevance score: 0.345
+--------------------------------------------------
+Section 16:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_1.pdf
+  Page Number: 14
+  Relevance Score: 0.574
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 17:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_3.pdf
+  Page Number: 8
+  Relevance Score: 0.521
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 18:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_2.pdf
+  Page Number: 7
+  Relevance Score: 0.517
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 19:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_2.pdf
+  Page Number: 15
+  Relevance Score: 0.488
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 20:
+  Title: keftedes
+  Document: Dinner Ideas - Sides_3.pdf
+  Page Number: 5
+  Relevance Score: 0.487
+  Chunk Count: 1
+  Status: Included
+  Exclusion Reason: None
+--------------------------------------------------
+Section 21:
+  Title: instructions:
+  Document: Lunch Ideas.pdf
+  Page Number: 4
+  Relevance Score: 0.480
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 22:
+  Title: instructions:
+  Document: Lunch Ideas.pdf
+  Page Number: 3
+  Relevance Score: 0.476
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 23:
+  Title: instructions:
+  Document: Lunch Ideas.pdf
+  Page Number: 14
+  Relevance Score: 0.465
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 24:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_2.pdf
+  Page Number: 5
+  Relevance Score: 0.465
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 25:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_2.pdf
+  Page Number: 9
+  Relevance Score: 0.465
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 26:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_1.pdf
+  Page Number: 8
+  Relevance Score: 0.464
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 27:
+  Title: instructions:
+  Document: Lunch Ideas.pdf
+  Page Number: 5
+  Relevance Score: 0.458
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 28:
+  Title: instructions:
+  Document: Breakfast Ideas.pdf
+  Page Number: 5
+  Relevance Score: 0.457
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 29:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_1.pdf
+  Page Number: 5
+  Relevance Score: 0.452
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 30:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_1.pdf
+  Page Number: 7
+  Relevance Score: 0.452
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 31:
+  Title: instructions:
+  Document: Dinner Ideas - Mains_2.pdf
+  Page Number: 10
+  Relevance Score: 0.446
+  Chunk Count: 1
+  Status: Excluded
+  Exclusion Reason: Generic title: instructions:
+--------------------------------------------------
+Section 32:
+  Title: beef tacos ingredients:
+  Document: Dinner Ideas - Mains_1.pdf
+  Page Number: 5
+  Relevance Score: 0.445
+  Chunk Count: 1
+  Status: Included
+  Exclusion Reason: None
+--------------------------------------------------
