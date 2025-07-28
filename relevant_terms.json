@@ -1,0 +1,582 @@
+{
+  "domains": {
+    "Food": {
+      "personas": {
+        "Health-Conscious": {
+          "query_keywords": [
+            "vegetarian", "vegan", "plant-based", "gluten-free", "healthy", "low-carb", "organic",
+            "keto", "paleo", "raw food", "superfood", "antioxidant", "probiotic", "prebiotic",
+            "whole grain", "fiber-rich", "low-sodium", "sugar-free", "natural", "clean eating",
+            "alkaline", "detox", "cleanse", "nutrient-dense", "anti-inflammatory", "heart-healthy",
+            "omega-3", "quinoa", "chia seeds", "spirulina", "wheatgrass", "kombucha", "turmeric",
+            "ginger", "green tea", "acai", "goji berries", "kale", "spinach", "broccoli",
+            "avocado", "blueberries", "salmon", "nuts", "seeds", "legumes", "beans"
+          ],
+          "relevant_terms": [
+            "quinoa", "kale", "spinach", "broccoli", "avocado", "blueberries", "chia seeds",
+            "flaxseeds", "hemp seeds", "almonds", "walnuts", "lentils", "chickpeas", "black beans",
+            "tofu", "tempeh", "edamame", "spirulina", "wheatgrass", "kombucha", "turmeric",
+            "ginger", "green tea", "acai berries", "goji berries", "sweet potato", "beets",
+            "cauliflower", "brussels sprouts", "asparagus", "artichoke", "zucchini", "eggplant",
+            "brown rice", "buckwheat", "millet", "amaranth", "coconut oil", "olive oil",
+            "almond milk", "coconut milk", "oat milk", "fermented foods", "sauerkraut", "kimchi",
+            "miso", "nutritional yeast", "apple cider vinegar", "matcha", "chia pudding"
+          ]
+        },
+        "Gourmet": {
+          "query_keywords": [
+            "gourmet", "fine dining", "cuisine", "recipe", "culinary", "chef", "artisanal",
+            "michelin star", "tasting menu", "molecular gastronomy", "farm-to-table", "seasonal",
+            "truffle", "caviar", "foie gras", "wagyu", "saffron", "aged cheese", "vintage wine",
+            "sommelier", "epicurean", "gastronomy", "plating", "presentation", "flavor profile",
+            "amuse-bouche", "mise en place", "sous vide", "emulsification", "reduction",
+            "confit", "braising", "poaching", "flambé", "julienne", "brunoise", "chiffonade"
+          ],
+          "relevant_terms": [
+            "truffle", "caviar", "foie gras", "wagyu", "saffron", "aged cheese", "vintage wine",
+            "heirloom tomatoes", "artisan bread", "handmade pasta", "wild mushrooms", "morels",
+            "chanterelles", "porcini", "grass-fed beef", "free-range chicken", "organic produce",
+            "microgreens", "edible flowers", "balsamic reduction", "infused oils", "herb crust",
+            "deconstructed dishes", "foam", "gel", "spherification", "sous vide salmon",
+            "seared scallops", "duck confit", "braised short ribs", "poached pear", "lavender honey",
+            "artisan cheese", "charcuterie board", "wine pairing", "tasting notes", "seasonal menu"
+          ]
+        },
+        "Budget Cook": {
+          "query_keywords": [
+            "budget recipe", "cheap meal", "affordable cooking", "simple recipe", "frugal",
+            "economical", "cost-effective", "bulk cooking", "meal prep", "leftovers",
+            "pantry staples", "discount groceries", "generic brands", "coupons", "sales",
+            "rice and beans", "pasta dishes", "soup recipes", "slow cooker", "one-pot meals",
+            "seasonal produce", "frozen vegetables", "canned goods", "batch cooking"
+          ],
+          "relevant_terms": [
+            "rice", "beans", "pasta", "potatoes", "carrots", "onions", "garlic", "tomatoes",
+            "frozen peas", "canned corn", "lentils", "chickpeas", "black beans", "oats",
+            "barley", "cabbage", "zucchini", "spinach", "bell peppers", "canned tomatoes",
+            "chicken thighs", "ground turkey", "eggs", "tuna", "peanut butter", "bread",
+            "flour", "sugar", "vegetable oil", "soy sauce", "spices", "dried herbs",
+            "pasta sauce", "chicken broth", "ramen noodles", "couscous", "cornmeal", "polenta"
+          ]
+        },
+        "Pastry Chef": {
+          "query_keywords": [
+            "baking", "pastry", "dessert", "cake", "bread", "croissant", "macaron", "soufflé",
+            "chocolate work", "sugar art", "fondant", "buttercream", "ganache", "meringue",
+            "laminated dough", "proofing", "fermentation", "gluten development", "tempering",
+            "piping", "decorating", "wedding cakes", "petit fours", "tart", "éclair"
+          ],
+          "relevant_terms": [
+            "croissant", "macaron", "soufflé", "chocolate ganache", "buttercream", "fondant",
+            "meringue", "puff pastry", "choux pastry", "brioche", "sourdough", "artisan bread",
+            "cake layers", "sugar sculptures", "royal icing", "marzipan", "custard", "crème brûlée",
+            "tiramisu", "éclair", "tart shell", "shortcrust pastry", "chiffon cake", "genoise",
+            "pavlova", "petit fours", "madeleines", "cannoli", "baklava", "churros", "scones"
+          ]
+        }
+      }
+    },
+    "Technology": {
+      "personas": {
+        "Tech Enthusiast": {
+          "query_keywords": [
+            "software", "hardware", "programming", "coding", "database", "cloud", "AI", "machine learning",
+            "algorithm", "data science", "blockchain", "cryptocurrency", "IoT", "5G", "VR", "AR",
+            "quantum computing", "neural networks", "deep learning", "big data", "analytics",
+            "automation", "robotics", "smart devices", "wearables", "fintech", "edtech",
+            "mobile apps", "web development", "API", "microservices", "docker", "kubernetes",
+            "devops", "agile", "scrum", "github", "open source", "linux", "python", "javascript"
+          ],
+          "relevant_terms": [
+            "python", "javascript", "java", "sql", "docker", "kubernetes", "microservices",
+            "cloud computing", "AWS", "azure", "google cloud", "machine learning", "neural networks",
+            "deep learning", "tensorflow", "pytorch", "scikit-learn", "pandas", "numpy",
+            "blockchain", "smart contracts", "IoT devices", "5G networks", "VR headsets",
+            "AR applications", "quantum algorithms", "big data analytics", "API integration",
+            "agile methodology", "scrum framework", "CI/CD", "git", "open source", "linux kernel"
+          ]
+        },
+        "Cybersecurity Expert": {
+          "query_keywords": [
+            "cybersecurity", "encryption", "firewall", "hacking", "security", "network",
+            "vulnerability", "malware", "phishing", "ransomware", "data breach", "penetration testing",
+            "ethical hacking", "threat assessment", "risk management", "compliance", "GDPR",
+            "zero-trust", "multi-factor authentication", "biometrics", "digital forensics",
+            "SIEM", "incident response", "threat intelligence", "security audit", "PKI",
+            "VPN", "SSL/TLS", "OWASP", "NIST", "ISO 27001", "SOC", "CERT", "honeypot"
+          ],
+          "relevant_terms": [
+            "encryption", "firewall", "VPN", "SSL/TLS", "multi-factor authentication",
+            "zero-trust architecture", "penetration testing", "ethical hacking", "threat intelligence",
+            "SIEM", "digital forensics", "incident response", "security audit", "GDPR compliance",
+            "ISO 27001", "OWASP top 10", "intrusion detection", "network monitoring",
+            "access control", "biometric authentication", "secure coding", "patch management",
+            "vulnerability scanning", "malware analysis", "phishing detection", "ransomware protection"
+          ]
+        },
+        "Data Scientist": {
+          "query_keywords": [
+            "data analysis", "statistics", "machine learning", "predictive modeling", "data mining",
+            "big data", "data visualization", "python", "R", "SQL", "pandas", "numpy",
+            "scikit-learn", "tensorflow", "pytorch", "jupyter", "tableau", "power bi",
+            "regression", "classification", "clustering", "neural networks", "deep learning",
+            "feature engineering", "cross-validation", "hypothesis testing", "A/B testing"
+          ],
+          "relevant_terms": [
+            "python", "R", "SQL", "pandas", "numpy", "scikit-learn", "tensorflow", "pytorch",
+            "jupyter notebook", "tableau", "power bi", "data visualization", "predictive modeling",
+            "regression analysis", "classification models", "clustering algorithms", "neural networks",
+            "feature engineering", "cross-validation", "A/B testing", "hypothesis testing",
+            "data cleaning", "data wrangling", "exploratory data analysis", "statistical modeling"
+          ]
+        },
+        "UX/UI Designer": {
+          "query_keywords": [
+            "user experience", "user interface", "wireframes", "prototyping", "usability testing",
+            "user research", "persona development", "information architecture", "interaction design",
+            "visual design", "design thinking", "human-centered design", "accessibility",
+            "responsive design", "mobile-first", "design systems", "style guides", "figma",
+            "sketch", "adobe xd", "invision", "user journey", "design sprint", "A/B testing"
+          ],
+          "relevant_terms": [
+            "wireframes", "prototypes", "user personas", "journey maps", "usability testing",
+            "figma", "sketch", "adobe xd", "invision", "responsive design", "mobile-first design",
+            "design systems", "style guides", "information architecture", "interaction design",
+            "visual hierarchy", "color theory", "typography", "accessibility standards",
+            "user flows", "mockups", "design sprints", "A/B testing", "user feedback"
+          ]
+        }
+      }
+    },
+    "Healthcare": {
+      "personas": {
+        "Medical Doctor": {
+          "query_keywords": [
+            "diagnosis", "treatment", "patient care", "medical history", "symptoms", "physical examination",
+            "laboratory tests", "medical imaging", "prescription", "medication", "surgery",
+            "clinical guidelines", "evidence-based medicine", "differential diagnosis", "prognosis",
+            "medical ethics", "informed consent", "patient safety", "quality improvement",
+            "continuing medical education", "medical research", "clinical trials", "peer review"
+          ],
+          "relevant_terms": [
+            "diagnosis", "treatment plan", "patient history", "symptom assessment", "physical exam",
+            "blood tests", "MRI", "CT scan", "ultrasound", "prescription", "medication management",
+            "surgical procedure", "clinical guidelines", "evidence-based practice", "prognosis",
+            "patient consent", "medical ethics", "clinical trials", "peer-reviewed studies",
+            "patient safety protocols", "quality improvement", "continuing education"
+          ]
+        },
+        "Nurse": {
+          "query_keywords": [
+            "patient care", "nursing assessment", "medication administration", "wound care",
+            "infection control", "patient education", "discharge planning", "care coordination",
+            "vital signs", "nursing documentation", "evidence-based practice", "patient advocacy",
+            "interdisciplinary collaboration", "emergency response", "pain management",
+            "family support", "cultural competency", "professional development", "nursing ethics"
+          ],
+          "relevant_terms": [
+            "vital signs", "patient assessment", "medication administration", "wound care",
+            "infection control", "patient education", "discharge planning", "care coordination",
+            "nursing documentation", "evidence-based nursing", "patient advocacy", "team collaboration",
+            "emergency response", "pain management", "family support", "cultural competence",
+            "nursing ethics", "professional development", "patient-centered care"
+          ]
+        },
+        "Pharmacist": {
+          "query_keywords": [
+            "medication therapy", "drug interactions", "pharmaceutical care", "medication counseling",
+            "prescription review", "clinical pharmacy", "pharmacokinetics", "pharmacodynamics",
+            "adverse drug reactions", "medication adherence", "drug safety", "compounding",
+            "immunizations", "health screenings", "medication therapy management", "formulary",
+            "generic substitution", "insurance coverage", "pharmaceutical research"
+          ],
+          "relevant_terms": [
+            "drug interactions", "medication counseling", "prescription review", "pharmacokinetics",
+            "pharmacodynamics", "adverse drug reactions", "medication adherence", "drug safety",
+            "compounding medications", "immunizations", "health screenings", "formulary management",
+            "generic substitution", "medication therapy management", "pharmaceutical research",
+            "patient counseling", "drug safety protocols", "clinical pharmacy services"
+          ]
+        },
+        "Physical Therapist": {
+          "query_keywords": [
+            "rehabilitation", "movement analysis", "exercise prescription", "manual therapy",
+            "pain management", "injury prevention", "functional assessment", "gait training",
+            "strength training", "flexibility", "balance training", "orthopedic conditions",
+            "neurological conditions", "sports injuries", "patient education", "home exercise",
+            "assistive devices", "outcome measures", "evidence-based practice"
+          ],
+          "relevant_terms": [
+            "exercise prescription", "manual therapy", "gait training", "strength training",
+            "flexibility exercises", "balance training", "functional assessment", "pain management",
+            "injury prevention", "orthopedic rehabilitation", "neurological rehabilitation",
+            "sports injury recovery", "patient education", "home exercise programs",
+            "assistive devices", "outcome measures", "evidence-based therapy"
+          ]
+        }
+      }
+    },
+    "Automotive": {
+      "personas": {
+        "Car Enthusiast": {
+          "query_keywords": [
+            "performance", "horsepower", "torque", "acceleration", "top speed", "handling",
+            "suspension", "brakes", "engine", "transmission", "exhaust", "turbo", "supercharger",
+            "modification", "tuning", "aftermarket", "racing", "track day", "car shows",
+            "classic cars", "muscle cars", "sports cars", "supercars", "luxury cars",
+            "automotive history", "car culture", "driving experience", "road test"
+          ],
+          "relevant_terms": [
+            "horsepower", "torque", "acceleration", "top speed", "handling", "suspension tuning",
+            "brake performance", "turbocharger", "supercharger", "aftermarket parts", "tuning",
+            "racing suspension", "track performance", "classic cars", "muscle cars", "sports cars",
+            "supercars", "luxury vehicles", "car modification", "exhaust system", "aerodynamics"
+          ]
+        },
+        "Mechanic": {
+          "query_keywords": [
+            "engine repair", "transmission service", "brake repair", "suspension work",
+            "electrical systems", "diagnostic testing", "preventive maintenance", "oil changes",
+            "tire service", "emissions testing", "air conditioning repair", "cooling system",
+            "fuel system", "exhaust repair", "battery replacement", "alternator", "starter",
+            "timing belt", "spark plugs", "filters", "fluids", "inspection", "troubleshooting"
+          ],
+          "relevant_terms": [
+            "engine diagnostics", "transmission repair", "brake service", "suspension repair",
+            "electrical diagnostics", "oil change", "tire alignment", "emissions testing",
+            "cooling system maintenance", "fuel system repair", "battery testing", "alternator repair",
+            "starter replacement", "timing belt replacement", "spark plug replacement",
+            "preventive maintenance", "vehicle inspection", "troubleshooting"
+          ]
+        },
+        "Auto Sales": {
+          "query_keywords": [
+            "vehicle sales", "customer service", "financing options", "trade-in value",
+            "vehicle features", "warranty", "incentives", "rebates", "lease options",
+            "market trends", "inventory management", "customer needs assessment",
+            "product knowledge", "negotiation", "closing techniques", "follow-up service",
+            "referrals", "customer satisfaction", "sales training", "automotive industry"
+          ],
+          "relevant_terms": [
+            "financing options", "trade-in value", "vehicle features", "warranty coverage",
+            "incentives", "rebates", "lease agreements", "market trends", "inventory management",
+            "customer needs assessment", "product knowledge", "negotiation skills", "closing techniques",
+            "customer satisfaction", "sales training", "referral programs", "after-sales service"
+          ]
+        }
+      }
+    },
+    "Fashion": {
+      "personas": {
+        "Fashion Designer": {
+          "query_keywords": [
+            "fashion design", "sketching", "pattern making", "fabric selection", "color theory",
+            "trend forecasting", "runway shows", "fashion week", "collections", "seasonal trends",
+            "haute couture", "ready-to-wear", "fast fashion", "sustainable fashion", "textile design",
+            "fashion illustration", "draping", "fitting", "silhouette", "fashion history",
+            "brand identity", "target market", "fashion merchandising", "fashion photography"
+          ],
+          "relevant_terms": [
+            "pattern making", "fabric selection", "color theory", "trend forecasting", "runway shows",
+            "fashion week", "haute couture", "ready-to-wear", "sustainable fashion", "textile design",
+            "fashion illustration", "draping", "fitting", "silhouette design", "brand identity",
+            "target market analysis", "fashion merchandising", "fashion photography", "seasonal collections"
+          ]
+        },
+        "Fashion Blogger": {
+          "query_keywords": [
+            "style inspiration", "outfit posts", "fashion trends", "brand collaborations",
+            "fashion photography", "social media", "fashion events", "street style",
+            "fashion reviews", "styling tips", "fashion history", "personal style",
+            "fashion influencer", "content creation", "fashion journalism", "trend reporting",
+            "fashion week coverage", "brand partnerships", "affiliate marketing", "fashion PR"
+          ],
+          "relevant_terms": [
+            "outfit posts", "fashion trends", "brand collaborations", "street style", "styling tips",
+            "fashion photography", "personal style", "fashion journalism", "trend reporting",
+            "fashion week coverage", "brand partnerships", "affiliate marketing", "fashion PR",
+            "style inspiration", "social media content", "fashion events", "content creation"
+          ]
+        },
+        "Stylist": {
+          "query_keywords": [
+            "personal styling", "wardrobe consultation", "color analysis", "body type analysis",
+            "occasion dressing", "capsule wardrobe", "styling techniques", "fashion trends",
+            "client consultation", "shopping assistance", "wardrobe organization", "styling tools",
+            "fashion coordination", "celebrity styling", "editorial styling", "commercial styling",
+            "fashion shows", "photo shoots", "red carpet", "brand collaborations"
+          ],
+          "relevant_terms": [
+            "wardrobe consultation", "color analysis", "body type analysis", "capsule wardrobe",
+            "styling techniques", "client consultation", "shopping assistance", "wardrobe organization",
+            "fashion coordination", "celebrity styling", "editorial styling", "commercial styling",
+            "fashion shows", "photo shoots", "red carpet styling", "brand collaborations"
+          ]
+        }
+      }
+    },
+    "Music": {
+      "personas": {
+        "Professional Musician": {
+          "query_keywords": [
+            "performance", "composition", "music theory", "instrument technique", "practice routine",
+            "recording", "live concerts", "touring", "music collaboration", "improvisation",
+            "music education", "masterclasses", "competitions", "auditions", "repertoire",
+            "music interpretation", "stage presence", "audience engagement", "music business",
+            "contracts", "royalties", "music promotion", "album production", "sound engineering"
+          ],
+          "relevant_terms": [
+            "music composition", "instrument technique", "practice routine", "live performance",
+            "music recording", "touring", "music collaboration", "improvisation", "repertoire",
+            "stage presence", "audience engagement", "music theory", "music interpretation",
+            "album production", "sound engineering", "music promotion", "royalties"
+          ]
+        },
+        "Music Producer": {
+          "query_keywords": [
+            "music production", "recording studio", "sound engineering", "mixing", "mastering",
+            "audio equipment", "digital audio workstation", "music software", "plugins",
+            "sound design", "beat making", "arrangement", "orchestration", "artist development",
+            "album production", "singles production", "music business", "record labels",
+            "music licensing", "streaming platforms", "music marketing", "artist management"
+          ],
+          "relevant_terms": [
+            "sound engineering", "mixing", "mastering", "digital audio workstation", "music software",
+            "sound design", "beat making", "arrangement", "orchestration", "artist development",
+            "album production", "singles production", "music licensing", "streaming platforms",
+            "music marketing", "artist management", "audio equipment"
+          ]
+        },
+        "Music Teacher": {
+          "query_keywords": [
+            "music education", "lesson planning", "student assessment", "practice techniques",
+            "music theory instruction", "instrument instruction", "sight-reading", "ear training",
+            "music history", "performance opportunities", "recitals", "music competitions",
+            "student motivation", "practice strategies", "musical development", "curriculum design",
+            "age-appropriate instruction", "individual instruction", "group instruction", "music technology"
+          ],
+          "relevant_terms": [
+            "music theory", "instrument instruction", "sight-reading", "ear training", "music history",
+            "recitals", "music competitions", "student motivation", "practice strategies",
+            "curriculum design", "individual instruction", "group instruction", "music technology",
+            "musical development", "lesson planning", "student assessment"
+          ]
+        }
+      }
+    },
+    "Photography": {
+      "personas": {
+        "Professional Photographer": {
+          "query_keywords": [
+            "photography", "camera equipment", "lighting", "composition", "exposure", "aperture",
+            "shutter speed", "ISO", "depth of field", "focal length", "lens selection",
+            "portrait photography", "landscape photography", "wedding photography", "event photography",
+            "commercial photography", "fashion photography", "product photography", "street photography",
+            "post-processing", "photo editing", "digital workflow", "client management", "portfolios"
+          ],
+          "relevant_terms": [
+            "lighting setup", "composition", "exposure", "aperture", "shutter speed", "ISO",
+            "depth of field", "focal length", "lens selection", "portrait photography",
+            "landscape photography", "wedding photography", "event photography", "commercial photography",
+            "fashion photography", "product photography", "street photography", "post-processing",
+            "photo editing", "digital workflow", "client management"
+          ]
+        },
+        "Photo Editor": {
+          "query_keywords": [
+            "photo editing", "post-processing", "digital retouching", "color correction", "exposure adjustment",
+            "photoshop", "lightroom", "RAW processing", "image enhancement", "photo manipulation",
+            "compositing", "background removal", "skin retouching", "product retouching",
+            "batch processing", "workflow optimization", "file management", "color grading",
+            "noise reduction", "sharpening", "cropping", "straightening", "HDR processing"
+          ],
+          "relevant_terms": [
+            "photoshop", "lightroom", "color correction", "exposure adjustment", "RAW processing",
+            "image enhancement", "photo manipulation", "compositing", "background removal",
+            "skin retouching", "product retouching", "batch processing", "workflow optimization",
+            "color grading", "noise reduction", "sharpening", "cropping", "HDR processing"
+          ]
+        }
+      }
+    },
+    "Gaming": {
+      "personas": {
+        "Game Developer": {
+          "query_keywords": [
+            "game development", "programming", "game design", "game engines", "unity", "unreal engine",
+            "gameplay mechanics", "user interface", "game testing", "debugging", "optimization",
+            "3D modeling", "animation", "level design", "character design", "narrative design",
+            "game balance", "player experience", "monetization", "live operations", "updates",
+            "patches", "DLC", "multiplayer", "AI programming", "physics simulation"
+          ],
+          "relevant_terms": [
+            "unity", "unreal engine", "gameplay mechanics", "user interface", "game testing",
+            "debugging", "optimization", "3D modeling", "animation", "level design",
+            "character design", "narrative design", "game balance", "player experience",
+            "multiplayer systems", "AI programming", "physics simulation", "game engine"
+          ]
+        },
+        "Professional Gamer": {
+          "query_keywords": [
+            "esports", "competitive gaming", "tournament play", "team strategy", "individual skill",
+            "practice routines", "game analysis", "performance optimization", "streaming",
+            "content creation", "sponsorships", "team management", "mental preparation",
+            "physical fitness", "reaction time", "hand-eye coordination", "game knowledge",
+            "meta understanding", "patch adaptation", "communication skills", "leadership"
+          ],
+          "relevant_terms": [
+            "esports", "tournament play", "team strategy", "individual skill", "practice routines",
+            "game analysis", "performance optimization", "streaming", "content creation",
+            "sponsorships", "team management", "mental preparation", "reaction time",
+            "hand-eye coordination", "game knowledge", "meta understanding", "patch adaptation"
+          ]
+        },
+        "Game Reviewer": {
+          "query_keywords": [
+            "game reviews", "game criticism", "game analysis", "gameplay evaluation", "story analysis",
+            "graphics review", "sound design review", "performance analysis", "game journalism",
+            "preview coverage", "industry news", "developer interviews", "gaming trends",
+            "platform comparisons", "genre analysis", "indie games", "AAA games",
+            "game recommendations", "scoring systems", "objective analysis", "subjective opinions"
+          ],
+          "relevant_terms": [
+            "gameplay evaluation", "story analysis", "graphics review", "sound design review",
+            "performance analysis", "game journalism", "industry news", "developer interviews",
+            "gaming trends", "platform comparisons", "genre analysis", "indie games", "AAA games",
+            "game recommendations", "objective analysis", "subjective opinions"
+          ]
+        }
+      }
+    },
+    "Construction": {
+      "personas": {
+        "Architect": {
+          "query_keywords": [
+            "architectural design", "building plans", "blueprints", "structural design", "aesthetic design",
+            "building codes", "zoning regulations", "sustainable design", "green building", "LEED certification",
+            "space planning", "site analysis", "client consultation", "project management",
+            "construction administration", "building materials", "cost estimation", "design software",
+            "CAD", "BIM", "3D modeling", "rendering", "presentation", "design development"
+          ],
+          "relevant_terms": [
+            "blueprints", "structural design", "sustainable design", "green building", "LEED certification",
+            "space planning", "site analysis", "building materials", "cost estimation", "CAD",
+            "BIM", "3D modeling", "rendering", "construction administration", "design development"
+          ]
+        },
+        "Construction Manager": {
+          "query_keywords": [
+            "project management", "construction scheduling", "budget management", "quality control",
+            "safety management", "team coordination", "subcontractor management", "material procurement",
+            "progress monitoring", "problem-solving", "client communication", "permit acquisition",
+            "inspection coordination", "change order management", "risk management", "construction methods",
+            "building techniques", "equipment management", "workforce management", "project delivery"
+          ],
+          "relevant_terms": [
+            "project scheduling", "budget management", "quality control", "safety management",
+            "subcontractor coordination", "material procurement", "progress monitoring", "risk management",
+            "client communication", "permit acquisition", "inspection coordination", "change order management"
+          ]
+        },
+        "Contractor": {
+          "query_keywords": [
+            "construction work", "skilled trades", "carpentry", "plumbing", "electrical work",
+            "roofing", "flooring", "painting", "drywall", "masonry", "concrete work",
+            "renovation", "remodeling", "home improvement", "commercial construction",
+            "residential construction", "project estimation", "material selection", "tool usage",
+            "safety procedures", "building codes", "quality workmanship", "customer service"
+          ],
+          "relevant_terms": [
+            "carpentry", "plumbing", "electrical work", "roofing", "flooring", "painting",
+            "drywall", "masonry", "concrete work", "renovation", "remodeling", "home improvement",
+            "building codes", "quality workmanship", "material selection", "safety procedures"
+          ]
+        }
+      }
+    },
+    "Agriculture": {
+      "personas": {
+        "Farmer": {
+          "query_keywords": [
+            "crop production", "livestock management", "soil health", "irrigation", "fertilization",
+            "pest management", "disease control", "harvesting", "planting", "breeding",
+            "farm equipment", "agricultural technology", "precision agriculture", "sustainable farming",
+            "organic farming", "crop rotation", "pasture management", "animal welfare",
+            "food safety", "market prices", "agricultural policy", "weather monitoring",
+            "yield optimization", "cost management", "farm planning", "agricultural research"
+          ],
+          "relevant_terms": [
+            "crop rotation", "soil health", "irrigation systems", "organic farming", "precision agriculture",
+            "pest management", "disease control", "harvesting techniques", "livestock breeding",
+            "pasture management", "animal welfare", "food safety", "yield optimization", "farm equipment"
+          ]
+        },
+        "Agricultural Scientist": {
+          "query_keywords": [
+            "agricultural research", "crop breeding", "plant genetics", "soil science", "entomology",
+            "plant pathology", "agricultural biotechnology", "precision agriculture", "sustainable agriculture",
+            "climate change adaptation", "food security", "yield improvement", "disease resistance",
+            "pest control", "irrigation efficiency", "nutrient management", "agricultural extension",
+            "technology transfer", "field trials", "data analysis", "research methodology",
+            "peer review", "scientific publication", "grant writing", "collaboration"
+          ],
+          "relevant_terms": [
+            "plant genetics", "soil science", "entomology", "plant pathology", "agricultural biotechnology",
+            "precision agriculture", "sustainable agriculture", "climate change adaptation", "food security",
+            "yield improvement", "disease resistance", "pest control", "irrigation efficiency",
+            "nutrient management", "field trials", "data analysis", "scientific publication"
+          ]
+        }
+      }
+    },
+    "Hospitality": {
+      "personas": {
+        "Hotel Manager": {
+          "query_keywords": [
+            "hotel operations", "guest services", "staff management", "revenue management",
+            "customer satisfaction", "hospitality industry", "hotel marketing", "reservation systems",
+            "housekeeping", "front desk operations", "food and beverage", "event management",
+            "quality assurance", "budget management", "staff training", "guest relations",
+            "online reviews", "brand standards", "property maintenance", "safety procedures",
+            "emergency response", "cultural sensitivity", "multilingual services", "technology integration"
+          ],
+          "relevant_terms": [
+            "guest services", "revenue management", "customer satisfaction", "housekeeping",
+            "front desk operations", "food and beverage", "event management", "quality assurance",
+            "staff training", "guest relations", "online reviews", "brand standards", "property maintenance"
+          ]
+        },
+        "Chef": {
+          "query_keywords": [
+            "culinary arts", "menu development", "food preparation", "kitchen management",
+            "food safety", "inventory management", "cost control", "staff training",
+            "recipe development", "food presentation", "seasonal menus", "dietary restrictions",
+            "food trends", "supplier relationships", "quality control", "kitchen equipment",
+            "food storage", "portion control", "nutritional analysis", "customer feedback",
+            "culinary creativity", "team leadership", "time management", "stress management"
+          ],
+          "relevant_terms": [
+            "menu development", "food preparation", "kitchen management", "food safety",
+            "inventory management", "cost control", "recipe development", "food presentation",
+            "seasonal menus", "dietary restrictions", "quality control", "culinary creativity"
+          ]
+        },
+        "Event Planner": {
+          "query_keywords": [
+            "event planning", "event coordination", "venue selection", "vendor management",
+            "budget planning", "timeline management", "logistics coordination", "client consultation",
+            "theme development", "decoration", "catering coordination", "entertainment booking",
+            "invitation design", "guest management", "audiovisual setup", "photography coordination",
+            "transportation arrangements", "accommodation booking", "contingency planning",
+            "post-event evaluation", "client satisfaction", "event marketing", "social media promotion"
+          ],
+          "relevant_terms": [
+            "venue selection", "vendor management", "budget planning", "timeline management",
+            "logistics coordination", "theme development", "catering coordination", "entertainment booking",
+            "invitation design", "guest management", "audiovisual setup", "event marketing"
+          ]
+        }
+      }
+    }
+  }
+}

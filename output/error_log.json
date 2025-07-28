@@ -1,0 +1,57 @@
+{
+  "error": "Failed to generate enhanced results",
+  "details": "module 'numpy' has no attribute 'mean\u5168\u4e16\u754c'"
+}
+{
+  "error": "Invalid command-line arguments",
+  "details": "Usage: python main.py <query> <persona>"
+}
+{
+  "error": "No chunks extracted"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "cannot access free variable 'page_data' where it is not associated with a value in enclosing scope"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "cannot access free variable 'page_data' where it is not associated with a value in enclosing scope"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "'boost'"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "'boost'"
+}
+{
+  "error": "No valid items after validation"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "'boost'"
+}
+{
+  "error": "Missing key 'relevant_terms' in enhanced_results"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "ImprovedResultGenerator.generate_enhanced_results() takes 3 positional arguments but 4 were given"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()"
+}
+{
+  "error": "Failed to generate enhanced results",
+  "details": "'ImprovedResultGenerator' object has no attribute 'generate_sections'"
+}

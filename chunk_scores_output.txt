@@ -1,0 +1,660 @@
+=== Chunk Relevance Scores ===
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 8
+Section Title: is the form fillable?
+Chunk Text: not all forms are fillable. sometimes form creators don t convert their pdfs to interactive fillable...
+Blended Score: 0.650
+BM25 Score: -0.027
+Relevance Score: 0.510
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 12
+Section Title: interactive form
+Chunk Text: to create an interactive form, use the prepare forms tool. see create a form from an existing docume...
+Blended Score: 0.556
+BM25 Score: -0.027
+Relevance Score: 0.519
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 12
+Section Title: change flat forms to fillable (acrobat pro)
+Chunk Text: you can change a flat form to a fillable form by either using the prepare form tool or enabling the ...
+Blended Score: 0.546
+BM25 Score: -0.039
+Relevance Score: 0.449
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 2
+Section Title: types of pdf forms
+Chunk Text: flat forms : these do not have interactive fields. it could be a paper form or pdf that hasn t been ...
+Blended Score: 0.486
+BM25 Score: -0.039
+Relevance Score: 0.447
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 9
+Section Title: fill in interactive forms
+Chunk Text: 3. when finished, submit the form to either send the data to a server or create an email
+Blended Score: 0.482
+BM25 Score: 0.000
+Relevance Score: 0.174
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 2
+Section Title: types of pdf forms
+Chunk Text: you can complete the forms by entering information and adding your signatures. acrobat also allows y...
+Blended Score: 0.453
+BM25 Score: -0.039
+Relevance Score: 0.443
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 21
+Section Title: set privileges and permissions for others
+Chunk Text: certify a document while leaving portions of it available for form filling , signatures, or comments
+Blended Score: 0.410
+BM25 Score: 0.000
+Relevance Score: 0.477
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 8
+Section Title: signer s experience
+Chunk Text: send in bulk allows you to upload a form and use that as a template to create and send many (hundred...
+Blended Score: 0.408
+BM25 Score: -0.027
+Relevance Score: 0.517
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 1
+Section Title: learn acrobat - fill and sign
+Chunk Text: fill and sign pdf forms you can easily fill, sign, and share your documents using acrobat s fill sig...
+Blended Score: 0.398
+BM25 Score: -0.067
+Relevance Score: 0.462
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 2
+Section Title: fill and sign pdf forms
+Chunk Text: it displays the fill sign tools in the left pane. you can now fill in the form fields and sign the f...
+Blended Score: 0.392
+BM25 Score: -0.046
+Relevance Score: 0.445
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 15
+Section Title: clear unsaved form entries
+Chunk Text: 1. choose tools prepare a form . in the fields side panel, choose clear form from the
+Blended Score: 0.378
+BM25 Score: -0.055
+Relevance Score: 0.461
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 2
+Section Title: to fill text fields:
+Chunk Text: 1. from the left panel, select fill in form fields , and then select the field where you
+Blended Score: 0.372
+BM25 Score: -0.067
+Relevance Score: 0.462
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 16
+Section Title: 7. edit the agreement settings (optional):
+Chunk Text: manage agreements - opens the bulk sends page with all your agreements: track status, access audit t...
+Blended Score: 0.362
+BM25 Score: -0.027
+Relevance Score: 0.495
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 13
+Section Title: 7. edit the agreement settings (optional):
+Chunk Text: the document is now ready to add any fields that you want the signers to fill in or sign.
+Blended Score: 0.325
+BM25 Score: 0.000
+Relevance Score: 0.499
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Generative AI_1.pdf
+Page Number: 20
+Section Title: like or dislike the response
+Chunk Text: 3. choose from the options, or provide details in the text box. then select submit .
+Blended Score: 0.313
+BM25 Score: -0.055
+Relevance Score: 0.475
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 10
+Section Title: note:
+Chunk Text: the forms preferences apply to the way that the application handles open forms as you work. the pref...
+Blended Score: 0.308
+BM25 Score: 0.000
+Relevance Score: 0.284
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Generative AI_1.pdf
+Page Number: 9
+Section Title: before you begin
+Chunk Text: before you begin, ensure that you adhere to the file and usage-related restrictions and login requir...
+Blended Score: 0.305
+BM25 Score: 0.000
+Relevance Score: 0.189
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 5
+Section Title: 5. the specify where to fill sign window is displayed showing options based on
+Chunk Text: simplified mode for multiple signers this mode provides simplified authoring with the capability of ...
+Blended Score: 0.303
+BM25 Score: -0.082
+Relevance Score: 0.461
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 12
+Section Title: flat form
+Chunk Text: the tools are enabled for the current form only. when you create a different form, redo this task to...
+Blended Score: 0.294
+BM25 Score: 0.000
+Relevance Score: 0.190
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 3
+Section Title: send a document to get signatures from others
+Chunk Text: to add form fields and specify where to sign, click specify where to sign .
+Blended Score: 0.284
+BM25 Score: -0.027
+Relevance Score: 0.458
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 15
+Section Title: note:
+Chunk Text: 4. the form fields are detected automatically. hover the mouse over a field to display a
+Blended Score: 0.279
+BM25 Score: -0.055
+Relevance Score: 0.488
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 9
+Section Title: steps to send in bulk
+Chunk Text: upload (by search or drag-and-drop) the primary file that you are using to build your agreement temp...
+Blended Score: 0.275
+BM25 Score: -0.027
+Relevance Score: 0.460
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Generative AI_2.pdf
+Page Number: 12
+Section Title: request access in acrobat
+Chunk Text: 3. select send request . your access request is submitted to the admin for review and
+Blended Score: 0.268
+BM25 Score: -0.055
+Relevance Score: 0.392
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 2
+Section Title: fill and sign pdf forms
+Chunk Text: to complete and sign pdf forms, open the form in acrobat and then select e-sign from the global bar....
+Blended Score: 0.267
+BM25 Score: -0.106
+Relevance Score: 0.405
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 6
+Section Title: 2. to add a signature:
+Chunk Text: note: once you add a signature or initial to a form and save it, you cannot edit it again.
+Blended Score: 0.267
+BM25 Score: -0.027
+Relevance Score: 0.491
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 14
+Section Title: print forms
+Chunk Text: 3. in the comments and forms menu, choose one of the following, and then select ok :
+Blended Score: 0.266
+BM25 Score: -0.027
+Relevance Score: 0.495
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Edit_1.pdf
+Page Number: 2
+Section Title: learn acrobat - edit_1
+Chunk Text: various documents to pdf forms. you can use the options in the edit panel to replace, edit, or
+Blended Score: 0.256
+BM25 Score: -0.027
+Relevance Score: 0.439
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Generative AI_2.pdf
+Page Number: 12
+Section Title: request access in acrobat
+Chunk Text: 2. in the request access dialog, specify a business reason for requesting access to the ai
+Blended Score: 0.252
+BM25 Score: 0.000
+Relevance Score: 0.088
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_2.pdf
+Page Number: 9
+Section Title: trust a signer s certificate
+Chunk Text: certificates that are signed and certified by a trust anchor. therefore, administrators can preconfi...
+Blended Score: 0.249
+BM25 Score: 0.000
+Relevance Score: 0.430
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Generative AI_2.pdf
+Page Number: 18
+Section Title: license deployment
+Chunk Text: you can manage the deployment of acrobat ai assistant through the adobe admin console. as an admin, ...
+Blended Score: 0.240
+BM25 Score: -0.027
+Relevance Score: 0.464
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 27
+Section Title: set up a roaming id account
+Chunk Text: 6. type your user name and password, or follow the directions to create an account.
+Blended Score: 0.240
+BM25 Score: -0.055
+Relevance Score: 0.402
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_2.pdf
+Page Number: 6
+Section Title: set the trust level of a certificate
+Chunk Text: any constructs such as form fields, multimedia, or javascript that may affect its look and feel.
+Blended Score: 0.240
+BM25 Score: 0.000
+Relevance Score: 0.072
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 20
+Section Title: why use certificate signatures?
+Chunk Text: for instance, companies in the european union who need to comply with advanced or qualified electron...
+Blended Score: 0.239
+BM25 Score: 0.000
+Relevance Score: 0.450
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 13
+Section Title: save forms
+Chunk Text: windows : save as other acrobat reader extended pdf enable more tools (includes form fill-in save) m...
+Blended Score: 0.235
+BM25 Score: 0.000
+Relevance Score: 0.131
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_2.pdf
+Page Number: 8
+Section Title: trust a signer s certificate
+Chunk Text: to trust a certificate, it must be added to the user s trusted identity list in the trusted identity...
+Blended Score: 0.232
+BM25 Score: -0.027
+Relevance Score: 0.418
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 25
+Section Title: note:
+Chunk Text: for details on the full range of configuration options in enterprise settings, see the digital signa...
+Blended Score: 0.232
+BM25 Score: 0.000
+Relevance Score: 0.500
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 24
+Section Title: setting up certificate-based signatures
+Chunk Text: you can expedite the signing process and optimize your results by making the following preparations ...
+Blended Score: 0.226
+BM25 Score: -0.027
+Relevance Score: 0.414
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_2.pdf
+Page Number: 10
+Section Title: xml data signatures
+Chunk Text: acrobat and acrobat reader support xml data signatures that are used to sign data in xml forms archi...
+Blended Score: 0.224
+BM25 Score: -0.027
+Relevance Score: 0.489
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 14
+Section Title: 7. edit the agreement settings (optional):
+Chunk Text: you can now add any necessary fields to the agreement. remember that a signature field must be place...
+Blended Score: 0.221
+BM25 Score: 0.000
+Relevance Score: 0.483
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 14
+Section Title: print forms
+Chunk Text: (interactive form only) to print only the typed entries and not the form itself, choose form fields ...
+Blended Score: 0.220
+BM25 Score: 0.000
+Relevance Score: 0.140
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Fill and Sign.pdf
+Page Number: 9
+Section Title: fill in interactive forms
+Chunk Text: 2. select anywhere in the form to access options, such as radio buttons. select inside a
+Blended Score: 0.220
+BM25 Score: -0.039
+Relevance Score: 0.441
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Generative AI_1.pdf
+Page Number: 26
+Section Title: note:
+Chunk Text: 1. open the document you want to work on, and then select ai assistant .
+Blended Score: 0.212
+BM25 Score: -0.027
+Relevance Score: 0.487
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 19
+Section Title: manage your bulk sends
+Chunk Text: download form field data - downloads a csv file of the field-level content for all child agreements ...
+Blended Score: 0.207
+BM25 Score: -0.027
+Relevance Score: 0.452
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_2.pdf
+Page Number: 5
+Section Title: set the trust level of a certificate
+Chunk Text: privileged system operations : it a llows internet connections, cross- domain scripting, silent prin...
+Blended Score: 0.204
+BM25 Score: 0.000
+Relevance Score: 0.066
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Generative AI_1.pdf
+Page Number: 12
+Section Title: get ai-generated overviews and summaries
+Chunk Text: also provides a brief overview at the beginning to explain what the entire document is about.
+Blended Score: 0.200
+BM25 Score: 0.000
+Relevance Score: 0.000
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: Generic title 'get ai-generated overviews and summaries'
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 3
+Section Title: send a document to get signatures from others
+Chunk Text: (optional) to explore advanced options including signer authentication, reminders, and more, click m...
+Blended Score: 0.199
+BM25 Score: 0.000
+Relevance Score: 0.455
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Export_1.pdf
+Page Number: 18
+Section Title: excel workbook settings
+Chunk Text: specifies whether to create a worksheet for each table or page, or the entire document.
+Blended Score: 0.198
+BM25 Score: 0.000
+Relevance Score: 0.391
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_2.pdf
+Page Number: 11
+Section Title: add verification information after signing
+Chunk Text: information and methods used to include this long-term validation (ltv) information in the pdf compl...
+Blended Score: 0.194
+BM25 Score: 0.000
+Relevance Score: 0.430
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 8
+Section Title: signer s experience
+Chunk Text: the sender has access to the agreements through their home or documents tab or through the send in b...
+Blended Score: 0.166
+BM25 Score: -0.027
+Relevance Score: 0.480
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+Document: Learn Acrobat - Request e-signatures_1.pdf
+Page Number: 19
+Section Title: manage your bulk sends
+Chunk Text: download individual files - provides the option to download the individual pdf files if multiple fil...
+Blended Score: 0.158
+BM25 Score: 0.000
+Relevance Score: 0.454
+Status: Excluded
+Penalty: 0.000
+Penalty Reason: None
+Boost: 0.000
+--------------------------------------------------
+
+=== Irrelevant Terms ===
+
+Dynamically Generated Irrelevant Terms:
+methodological analysis, table of contents, vermiform process, cecal appendage, reference book, bibliography, glossary
+=== Relevant Terms ===
+
+Dynamically Generated Relevant Terms:
+

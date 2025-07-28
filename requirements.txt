@@ -1,0 +1,12 @@
+# Core libraries for our pipeline with Python 3.12 compatible versions
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0
+PyMuPDF==1.24.1
+numpy==1.26.4
+torch==2.3.1
+
+# Compatibility libraries for Transformers
+transformers==4.36.0
+tokenizers==0.15.2
+tensorflow
+tf-keras

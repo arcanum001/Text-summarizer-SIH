@@ -1,0 +1,20 @@
+{
+  "model_paths": {
+    "bi_encoder": "./models/bi_encoder",
+    "cross_encoder": "./models/cross_encoder",
+    "summarizer": "./models/summarizer"
+  },
+  "pdf_data_path": "./data",
+  "output_path": "./output",
+  "search_parameters": {
+    "top_k_retrieval": 100,
+    "top_k_rerank": 50
+  },
+  "pdf_parsing_parameters": {
+    "min_chunk_word_count": 15,
+    "max_heading_word_count": 15
+  },
+  "filtering_parameters": {
+    "intent_score_weight": 0.6
+  }
+}
